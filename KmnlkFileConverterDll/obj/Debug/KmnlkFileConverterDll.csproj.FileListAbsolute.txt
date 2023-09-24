@@ -1,0 +1,12 @@
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\KmnlkFileConverterDll.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\KmnlkFileConverterDll.pdb
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\itextsharp.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\KmnlkCommon.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\System.Drawing.Common.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\System.IO.Compression.ZipFile.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\Newtonsoft.Json.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\bin\Debug\itextsharp.xml
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\obj\Debug\KmnlkFileConverterDll.csprojResolveAssemblyReference.cache
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\obj\Debug\KmnlkFileConverterDll.csproj.ResolveComReference.cache
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\obj\Debug\KmnlkFileConverterDll.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverterDll\obj\Debug\KmnlkFileConverterDll.pdb

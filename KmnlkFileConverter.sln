@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmnlkFileConverterApi", "KmnlkFileConverterApi\KmnlkFileConverterApi.csproj", "{BC81AF47-982E-4069-AB33-B7049B9BC749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmnlkFileConverterDll", "KmnlkFileConverterDll\KmnlkFileConverterDll.csproj", "{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mytest", "Mytest\Mytest.csproj", "{95997151-2ADB-410D-AC24-10E6C2E0D49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmnlkFileConverter.Tests", "KmnlkFileConverter.Tests\KmnlkFileConverter.Tests.csproj", "{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "KmnlkFileConverterApiSetup", "KmnlkFileConverterApiSetup\KmnlkFileConverterApiSetup.aiproj", "{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dlls", "Dlls", "{3E169D4D-01EC-4AD7-9006-48113C0B72D2}"
+	ProjectSection(SolutionItems) = preProject
+		Dlls\KmnlkCommon.dll = Dlls\KmnlkCommon.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC81AF47-982E-4069-AB33-B7049B9BC749}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{BC81AF47-982E-4069-AB33-B7049B9BC749}.All|Any CPU.Build.0 = Release|Any CPU
+		{BC81AF47-982E-4069-AB33-B7049B9BC749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC81AF47-982E-4069-AB33-B7049B9BC749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC81AF47-982E-4069-AB33-B7049B9BC749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC81AF47-982E-4069-AB33-B7049B9BC749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}.All|Any CPU.Build.0 = Release|Any CPU
+		{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66CDC0C-D8B3-4E4A-8C7F-0E6A182BA1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95997151-2ADB-410D-AC24-10E6C2E0D49C}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{95997151-2ADB-410D-AC24-10E6C2E0D49C}.All|Any CPU.Build.0 = Release|Any CPU
+		{95997151-2ADB-410D-AC24-10E6C2E0D49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95997151-2ADB-410D-AC24-10E6C2E0D49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95997151-2ADB-410D-AC24-10E6C2E0D49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95997151-2ADB-410D-AC24-10E6C2E0D49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}.All|Any CPU.Build.0 = Release|Any CPU
+		{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5139322A-A8A3-4001-B5FD-DEEC4C70B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}.All|Any CPU.ActiveCfg = DefaultBuild
+		{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}.All|Any CPU.Build.0 = DefaultBuild
+		{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}.Debug|Any CPU.Build.0 = DefaultBuild
+		{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{A6E4F61C-55DB-46CF-B50E-DDBFBB3F3061}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

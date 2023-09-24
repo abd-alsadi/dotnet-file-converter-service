@@ -1,0 +1,11 @@
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\Mytest.exe.config
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\Mytest.exe
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\Mytest.pdb
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\KmnlkCommon.dll
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\KmnlkFileConverterDll.dll
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\Newtonsoft.Json.dll
+S:\LocalPro\KmnlkFileConverter\Mytest\bin\Debug\KmnlkFileConverterDll.pdb
+S:\LocalPro\KmnlkFileConverter\Mytest\obj\Debug\Mytest.csprojResolveAssemblyReference.cache
+S:\LocalPro\KmnlkFileConverter\Mytest\obj\Debug\Mytest.csproj.ResolveComReference.cache
+S:\LocalPro\KmnlkFileConverter\Mytest\obj\Debug\Mytest.exe
+S:\LocalPro\KmnlkFileConverter\Mytest\obj\Debug\Mytest.pdb

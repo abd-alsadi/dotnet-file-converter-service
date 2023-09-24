@@ -1,0 +1,12 @@
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\KmnlkFileConverter.Tests.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\KmnlkFileConverter.Tests.pdb
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\obj\Debug\KmnlkFileConverter.Tests.csprojResolveAssemblyReference.cache
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\obj\Debug\KmnlkFileConverter.Tests.dll
+S:\LocalPro\KmnlkFileConverter\KmnlkFileConverter.Tests\obj\Debug\KmnlkFileConverter.Tests.pdb
